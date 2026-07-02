@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cordoba.desarrolladoresdeapps.com/sitemap.xml
